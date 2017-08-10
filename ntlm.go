@@ -2,7 +2,7 @@ package winrm
 
 import (
 	ntlmssp "github.com/Azure/go-ntlmssp"
-	"github.com/masterzen/winrm/soap"
+	"github.com/grubernaut/winrm/soap"
 )
 
 // ClientNTLM provides a transport via NTLMv2

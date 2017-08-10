@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/masterzen/winrm/soap"
+	"github.com/grubernaut/winrm/soap"
 	"github.com/masterzen/xmlpath"
 )
 

@@ -4,8 +4,8 @@ import (
 	"strings"
 	"testing"
 
+	"github.com/grubernaut/winrm/soap"
 	"github.com/masterzen/simplexml/dom"
-	"github.com/masterzen/winrm/soap"
 	"github.com/masterzen/xmlpath"
 	. "gopkg.in/check.v1"
 )
