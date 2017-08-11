@@ -1,5 +1,9 @@
 # WinRM for Go
 
+_Note_: This repository has been forked from `masterzen/winrm`. The only differences between this fork,
+and the upstream repository is the lack of LGPL dependencies. This is done by using
+`ChrisTrenkamp/goxpath` instead of `masterzen/xmlpath`, the latter of which is licensed under the LGPL license.
+
 _Note_: if you're looking for the `winrm` command-line tool, this has been splitted from this project and is available at [winrm-cli](https://github.com/masterzen/winrm-cli)
 
 This is a Go library to execute remote commands on Windows machines through
